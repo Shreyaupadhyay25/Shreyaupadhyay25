@@ -46,7 +46,7 @@ I am a final year CSE undergrad student at AKGEC, Ghaziabad.
 
 Have something cool to share? Connect with me on \
 \
-<a href="https://twitter.com/nisshthap" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="nisshthap" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Shreyaa2502" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="nisshthap" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shreya-upadhyay-6323a8215/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Shreya Upadhyay" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align = "center">
@@ -56,4 +56,4 @@ Have something cool to share? Connect with me on \
 
 #
 
-Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/shreyaupadhyay25/count.svg) people to checkout my profile :heart:
+Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/shreyaupadhyay25/count.svg) people to checkout my profile.
