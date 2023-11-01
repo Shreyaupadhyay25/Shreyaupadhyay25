@@ -5,13 +5,12 @@
 </div>
 
 
-I am a final year CSE undergrad student at AKGEC, Ghaziabad.
+I am a final year CS undergrad student at AKGEC, Ghaziabad.
 
  -   Pronouns: She/her 🙋🏻‍♀️
  -   A Machine Learning Enthusiast.
  - 🔭 Currently working on my Coding Skills.
- -   I am looking for help with DSA.
- -   Looking for opportunities where i can utilise my current skills and can learn more from the people i work with. 
+ -   Looking for opportunities where I can utilise my current skills and can learn more from the people I work with. 
  - 📫 How to reach me: shreyaup25@gmail.com
 
 
