@@ -17,20 +17,11 @@ I am a final year CS undergrad student at AKGEC, Ghaziabad.
 <h3 align="center">🛠 My Tech Stack</h3>
 <br>
 <p align="center">  
- <img align="center" alt="Angular" width="46px"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
-
-<img align="center" alt="Node.js" width="46px"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-
-<img align="center" alt="MongoDB" width="46px"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-
-<img align="center" alt="TypeScript" width="46px"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-
-<img align="center" alt="Postman" width="46px"
-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+ <img align="center" alt="Angular" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+ <img align="center" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="MongoDB" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img align="center" alt="TypeScript" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="center" alt="Postman" width="46px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="center" alt="Cpp" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="C" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="center" alt="JAVA" width ="46px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/">
